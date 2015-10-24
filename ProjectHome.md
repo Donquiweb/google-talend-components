@@ -1,0 +1,1 @@
+With this simple Talend component you can access to GoogleApi to retrieve/update data from Google Docs and more.
